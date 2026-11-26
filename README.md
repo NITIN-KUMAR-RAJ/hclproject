@@ -5,8 +5,8 @@ HCL × NASSCOM B.Tech 2nd Year – Data Analyst track · **Project No. 1 – Ret
 
 | | |
 |---|---|
-| **Student** | Naitik Singh Bhadoriya |
-| **Roll No.** | 25003215410104 |
+| **Student** | NITIN KUMAR RAJ |
+| **Roll No.** | 25003215410115 |
 | **Tools** | Python (pandas), Oracle SQL / PL-SQL, Power BI Desktop |
 
 ![Dashboard](dashboard/screenshot_overview.png)
